@@ -4,7 +4,9 @@ input/
 output/
 result/
 playground/
+model/
 
 # Binary Files and other
 **/*.pyc
 **/__init__.py
+**/__pycache__
