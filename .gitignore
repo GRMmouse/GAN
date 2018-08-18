@@ -1,7 +1,10 @@
+# Directories to ignore
 data/
 input/
 output/
 result/
+playground/
 
+# Binary Files and other
 **/*.pyc
 **/__init__.py
