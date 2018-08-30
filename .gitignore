@@ -8,5 +8,6 @@ model/
 
 # Binary Files and other
 **/*.pyc
+**/*.pkl
 **/__init__.py
 **/__pycache__
